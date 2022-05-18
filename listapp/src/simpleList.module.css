@@ -1,0 +1,12 @@
+.list{
+    font-family: sans-serif;
+    margin-left: 30px;
+    font-size: 1em;
+    padding: 0;
+    list-style-type: disc;
+    
+}
+
+.circle{
+    list-style-type: circle;
+}
